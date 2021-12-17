@@ -1,0 +1,45 @@
+﻿  main.cpp
+F:\Games101\作业\作业1\代码框架\main.cpp(27,11): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+F:\Games101\作业\作业1\代码框架\main.cpp(30,11): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+F:\Games101\作业\作业1\代码框架\main.cpp(30,23): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+F:\Games101\作业\作业1\代码框架\main.cpp(31,8): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+F:\Games101\作业\作业1\代码框架\main.cpp(31,18): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+F:\Games101\作业\作业1\代码框架\main.cpp(45,12): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+F:\Games101\作业\作业1\代码框架\main.cpp(123,56): warning C4305: “参数”: 从“double”到“float”截断
+F:\Games101\作业\作业1\代码框架\main.cpp(139,56): warning C4305: “参数”: 从“double”到“float”截断
+  rasterizer.cpp
+F:\Games101\作业\作业1\代码框架\rasterizer.cpp(41,10): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+F:\Games101\作业\作业1\代码框架\rasterizer.cpp(42,10): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+F:\Games101\作业\作业1\代码框架\rasterizer.cpp(43,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\Games101\作业\作业1\代码框架\rasterizer.cpp(44,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\Games101\作业\作业1\代码框架\rasterizer.cpp(52,15): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+F:\Games101\作业\作业1\代码框架\rasterizer.cpp(53,15): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+F:\Games101\作业\作业1\代码框架\rasterizer.cpp(54,16): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+F:\Games101\作业\作业1\代码框架\rasterizer.cpp(58,15): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+F:\Games101\作业\作业1\代码框架\rasterizer.cpp(59,15): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+F:\Games101\作业\作业1\代码框架\rasterizer.cpp(60,16): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+F:\Games101\作业\作业1\代码框架\rasterizer.cpp(62,52): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+F:\Games101\作业\作业1\代码框架\rasterizer.cpp(62,49): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+F:\Games101\作业\作业1\代码框架\rasterizer.cpp(84,56): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+F:\Games101\作业\作业1\代码框架\rasterizer.cpp(84,53): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+F:\Games101\作业\作业1\代码框架\rasterizer.cpp(92,15): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+F:\Games101\作业\作业1\代码框架\rasterizer.cpp(93,15): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+F:\Games101\作业\作业1\代码框架\rasterizer.cpp(94,16): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+F:\Games101\作业\作业1\代码框架\rasterizer.cpp(98,15): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+F:\Games101\作业\作业1\代码框架\rasterizer.cpp(99,15): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+F:\Games101\作业\作业1\代码框架\rasterizer.cpp(100,16): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+F:\Games101\作业\作业1\代码框架\rasterizer.cpp(102,52): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+F:\Games101\作业\作业1\代码框架\rasterizer.cpp(102,49): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+F:\Games101\作业\作业1\代码框架\rasterizer.cpp(124,56): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+F:\Games101\作业\作业1\代码框架\rasterizer.cpp(124,53): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+F:\Games101\作业\作业1\代码框架\rasterizer.cpp(144,33): warning C4305: “初始化”: 从“double”到“float”截断
+F:\Games101\作业\作业1\代码框架\rasterizer.cpp(145,33): warning C4305: “初始化”: 从“double”到“float”截断
+F:\Games101\作业\作业1\代码框架\rasterizer.cpp(164,33): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\Games101\作业\作业1\代码框架\rasterizer.cpp(165,34): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\Games101\作业\作业1\代码框架\rasterizer.cpp(235,15): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+  Triangle.cpp
+F:\Games101\作业\作业1\代码框架\Triangle.cpp(36,70): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+F:\Games101\作业\作业1\代码框架\Triangle.cpp(36,53): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+F:\Games101\作业\作业1\代码框架\Triangle.cpp(36,36): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+  正在生成代码...
+  1.旋转矩阵与透视投影矩阵.vcxproj -> F:\Graphic\games101作业\x64\Debug\1.旋转矩阵与透视投影矩阵.exe

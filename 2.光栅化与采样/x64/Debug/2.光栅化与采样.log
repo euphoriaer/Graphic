@@ -1,0 +1,29 @@
+﻿  main.cpp
+F:\Graphic\games101作业\packages\Eigen.3.3.3\build\native\include\Eigen\src\Core\arch\CUDA\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\Games101\作业\作业2\代码框架\main.cpp(133,62): warning C4305: “参数”: 从“double”到“float”截断
+F:\Games101\作业\作业2\代码框架\main.cpp(151,62): warning C4305: “参数”: 从“double”到“float”截断
+  rasterizer.cpp
+F:\Graphic\games101作业\packages\Eigen.3.3.3\build\native\include\Eigen\src\Core\arch\CUDA\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\Games101\作业\作业2\代码框架\rasterizer.cpp(107,29): warning C4305: “初始化”: 从“double”到“float”截断
+F:\Games101\作业\作业2\代码框架\rasterizer.cpp(108,29): warning C4305: “初始化”: 从“double”到“float”截断
+F:\Games101\作业\作业2\代码框架\rasterizer.cpp(126,27): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\Games101\作业\作业2\代码框架\rasterizer.cpp(127,28): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\Games101\作业\作业2\代码框架\rasterizer.cpp(203,10): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+F:\Games101\作业\作业2\代码框架\rasterizer.cpp(204,10): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+F:\Games101\作业\作业2\代码框架\rasterizer.cpp(205,10): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+F:\Games101\作业\作业2\代码框架\rasterizer.cpp(206,10): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+F:\Games101\作业\作业2\代码框架\rasterizer.cpp(211,34): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+F:\Games101\作业\作业2\代码框架\rasterizer.cpp(211,25): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+F:\Games101\作业\作业2\代码框架\rasterizer.cpp(213,43): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\Games101\作业\作业2\代码框架\rasterizer.cpp(213,40): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\Games101\作业\作业2\代码框架\rasterizer.cpp(217,24): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+F:\Games101\作业\作业2\代码框架\rasterizer.cpp(224,28): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+F:\Games101\作业\作业2\代码框架\rasterizer.cpp(224,25): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+F:\Games101\作业\作业2\代码框架\rasterizer.cpp(316,12): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+  Triangle.cpp
+F:\Graphic\games101作业\packages\Eigen.3.3.3\build\native\include\Eigen\src\Core\arch\CUDA\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\Games101\作业\作业2\代码框架\Triangle.cpp(39,63): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+F:\Games101\作业\作业2\代码框架\Triangle.cpp(39,49): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+F:\Games101\作业\作业2\代码框架\Triangle.cpp(39,35): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+  正在生成代码...
+  2.光栅化与采样.vcxproj -> F:\Graphic\games101作业\x64\Debug\2.光栅化与采样.exe

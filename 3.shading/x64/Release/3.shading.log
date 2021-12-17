@@ -1,0 +1,79 @@
+﻿  main.cpp
+  The contents of <optional> are available only with C++17 or later.
+F:\Games101\作业\作业3\Code\Texture.hpp(30,54): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\Games101\作业\作业3\Code\Texture.hpp(30,47): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\Games101\作业\作业3\Code\rasterizer.hpp(107,14): error C2039: "optional": 不是 "std" 的成员
+F:\Graphic\games101作业\packages\Eigen3.3.3.9\lib\native\include\Eigen\src\Core\arch\CUDA\Half.h(615): message : 参见“std”的声明
+F:\Games101\作业\作业3\Code\rasterizer.hpp(107,22): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+F:\Games101\作业\作业3\Code\rasterizer.hpp(107,22): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+F:\Games101\作业\作业3\Code\rasterizer.hpp(107,39): error C2238: 意外的标记位于“;”之前
+F:\Games101\作业\作业3\Code\rasterizer.hpp(74,41): error C2065: “texture”: 未声明的标识符
+F:\Games101\作业\作业3\Code\OBJ_Loader.h(951,33): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+F:\Games101\作业\作业3\Code\main.cpp(30,24): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\Games101\作业\作业3\Code\main.cpp(133,58): warning C4305: “参数”: 从“double”到“const float”截断
+F:\Games101\作业\作业3\Code\main.cpp(135,61): warning C4305: “参数”: 从“double”到“const float”截断
+F:\Games101\作业\作业3\Code\main.cpp(163,58): warning C4305: “参数”: 从“double”到“const float”截断
+F:\Games101\作业\作业3\Code\main.cpp(165,61): warning C4305: “参数”: 从“double”到“const float”截断
+F:\Games101\作业\作业3\Code\main.cpp(192,58): warning C4305: “参数”: 从“double”到“const float”截断
+F:\Games101\作业\作业3\Code\main.cpp(194,61): warning C4305: “参数”: 从“double”到“const float”截断
+F:\Games101\作业\作业3\Code\main.cpp(209,16): warning C4305: “初始化”: 从“double”到“float”截断
+F:\Games101\作业\作业3\Code\main.cpp(209,26): warning C4305: “初始化”: 从“double”到“float”截断
+F:\Games101\作业\作业3\Code\main.cpp(235,58): warning C4305: “参数”: 从“double”到“const float”截断
+F:\Games101\作业\作业3\Code\main.cpp(237,61): warning C4305: “参数”: 从“double”到“const float”截断
+F:\Games101\作业\作业3\Code\main.cpp(252,16): warning C4305: “初始化”: 从“double”到“float”截断
+F:\Games101\作业\作业3\Code\main.cpp(252,26): warning C4305: “初始化”: 从“double”到“float”截断
+F:\Games101\作业\作业3\Code\main.cpp(357,58): warning C4305: “参数”: 从“double”到“float”截断
+F:\Games101\作业\作业3\Code\main.cpp(375,58): warning C4305: “参数”: 从“double”到“float”截断
+  rasterizer.cpp
+  The contents of <optional> are available only with C++17 or later.
+F:\Games101\作业\作业3\Code\Texture.hpp(30,54): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\Games101\作业\作业3\Code\Texture.hpp(30,47): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\Games101\作业\作业3\Code\rasterizer.hpp(107,14): error C2039: "optional": 不是 "std" 的成员
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\queue(22): message : 参见“std”的声明
+F:\Games101\作业\作业3\Code\rasterizer.hpp(107,22): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+F:\Games101\作业\作业3\Code\rasterizer.hpp(107,22): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+F:\Games101\作业\作业3\Code\rasterizer.hpp(107,39): error C2238: 意外的标记位于“;”之前
+F:\Games101\作业\作业3\Code\rasterizer.hpp(74,41): error C2065: “texture”: 未声明的标识符
+F:\Games101\作业\作业3\Code\rasterizer.cpp(56,10): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+F:\Games101\作业\作业3\Code\rasterizer.cpp(57,10): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+F:\Games101\作业\作业3\Code\rasterizer.cpp(58,12): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\Games101\作业\作业3\Code\rasterizer.cpp(59,12): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\Games101\作业\作业3\Code\rasterizer.cpp(67,8): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+F:\Games101\作业\作业3\Code\rasterizer.cpp(68,8): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+F:\Games101\作业\作业3\Code\rasterizer.cpp(69,9): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+F:\Games101\作业\作业3\Code\rasterizer.cpp(73,8): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+F:\Games101\作业\作业3\Code\rasterizer.cpp(74,8): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+F:\Games101\作业\作业3\Code\rasterizer.cpp(75,9): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+F:\Games101\作业\作业3\Code\rasterizer.cpp(107,8): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+F:\Games101\作业\作业3\Code\rasterizer.cpp(108,8): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+F:\Games101\作业\作业3\Code\rasterizer.cpp(109,9): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+F:\Games101\作业\作业3\Code\rasterizer.cpp(113,8): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+F:\Games101\作业\作业3\Code\rasterizer.cpp(114,8): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+F:\Games101\作业\作业3\Code\rasterizer.cpp(115,9): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+F:\Games101\作业\作业3\Code\rasterizer.cpp(158,16): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+F:\Games101\作业\作业3\Code\rasterizer.cpp(158,13): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+F:\Games101\作业\作业3\Code\rasterizer.cpp(172,29): warning C4305: “初始化”: 从“double”到“float”截断
+F:\Games101\作业\作业3\Code\rasterizer.cpp(173,29): warning C4305: “初始化”: 从“double”到“float”截断
+F:\Games101\作业\作业3\Code\rasterizer.cpp(214,27): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\Games101\作业\作业3\Code\rasterizer.cpp(215,28): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\Games101\作业\作业3\Code\rasterizer.cpp(262,15): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+F:\Games101\作业\作业3\Code\rasterizer.cpp(263,14): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+F:\Games101\作业\作业3\Code\rasterizer.cpp(264,15): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+F:\Games101\作业\作业3\Code\rasterizer.cpp(265,14): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+F:\Games101\作业\作业3\Code\rasterizer.cpp(270,35): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\Games101\作业\作业3\Code\rasterizer.cpp(270,25): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\Games101\作业\作业3\Code\rasterizer.cpp(271,11): error C2429: 语言功能 "结构化绑定" 需要编译器标志 "/std:c++17"
+F:\Games101\作业\作业3\Code\rasterizer.cpp(294,116): error C2065: “texture”: 未声明的标识符
+F:\Games101\作业\作业3\Code\rasterizer.cpp(294,128): error C2065: “texture”: 未声明的标识符
+F:\Games101\作业\作业3\Code\rasterizer.cpp(294,145): error C2661: “fragment_shader_payload::fragment_shader_payload”: 没有重载函数接受 3 个参数
+F:\Games101\作业\作业3\Code\rasterizer.cpp(336,2): error C2065: “texture”: 未声明的标识符
+F:\Games101\作业\作业3\Code\rasterizer.cpp(336,17): error C2039: "nullopt": 不是 "std" 的成员
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\queue(22): message : 参见“std”的声明
+F:\Games101\作业\作业3\Code\rasterizer.cpp(336,24): error C2065: “nullopt”: 未声明的标识符
+  Texture.cpp
+  Triangle.cpp
+F:\Games101\作业\作业3\Code\Texture.hpp(30,54): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\Games101\作业\作业3\Code\Texture.hpp(30,47): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\Games101\作业\作业3\Code\Triangle.cpp(38,63): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+F:\Games101\作业\作业3\Code\Triangle.cpp(38,49): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+F:\Games101\作业\作业3\Code\Triangle.cpp(38,35): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据

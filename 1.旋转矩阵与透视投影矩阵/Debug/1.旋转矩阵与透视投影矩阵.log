@@ -1,0 +1,47 @@
+﻿  main.cpp
+F:\Games101\作业\作业1\代码框架\main.cpp(82,62): warning C4305: “参数”: 从“double”到“float”截断
+F:\Games101\作业\作业1\代码框架\main.cpp(98,62): warning C4305: “参数”: 从“double”到“float”截断
+  rasterizer.cpp
+F:\Games101\作业\作业1\代码框架\rasterizer.cpp(41,10): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+F:\Games101\作业\作业1\代码框架\rasterizer.cpp(42,10): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+F:\Games101\作业\作业1\代码框架\rasterizer.cpp(43,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\Games101\作业\作业1\代码框架\rasterizer.cpp(44,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\Games101\作业\作业1\代码框架\rasterizer.cpp(52,15): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+F:\Games101\作业\作业1\代码框架\rasterizer.cpp(53,15): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+F:\Games101\作业\作业1\代码框架\rasterizer.cpp(54,16): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+F:\Games101\作业\作业1\代码框架\rasterizer.cpp(58,15): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+F:\Games101\作业\作业1\代码框架\rasterizer.cpp(59,15): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+F:\Games101\作业\作业1\代码框架\rasterizer.cpp(60,16): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+F:\Games101\作业\作业1\代码框架\rasterizer.cpp(62,52): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+F:\Games101\作业\作业1\代码框架\rasterizer.cpp(62,49): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+F:\Games101\作业\作业1\代码框架\rasterizer.cpp(84,56): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+F:\Games101\作业\作业1\代码框架\rasterizer.cpp(84,53): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+F:\Games101\作业\作业1\代码框架\rasterizer.cpp(92,15): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+F:\Games101\作业\作业1\代码框架\rasterizer.cpp(93,15): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+F:\Games101\作业\作业1\代码框架\rasterizer.cpp(94,16): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+F:\Games101\作业\作业1\代码框架\rasterizer.cpp(98,15): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+F:\Games101\作业\作业1\代码框架\rasterizer.cpp(99,15): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+F:\Games101\作业\作业1\代码框架\rasterizer.cpp(100,16): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+F:\Games101\作业\作业1\代码框架\rasterizer.cpp(102,52): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+F:\Games101\作业\作业1\代码框架\rasterizer.cpp(102,49): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+F:\Games101\作业\作业1\代码框架\rasterizer.cpp(124,56): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+F:\Games101\作业\作业1\代码框架\rasterizer.cpp(124,53): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+F:\Games101\作业\作业1\代码框架\rasterizer.cpp(144,33): warning C4305: “初始化”: 从“double”到“float”截断
+F:\Games101\作业\作业1\代码框架\rasterizer.cpp(145,33): warning C4305: “初始化”: 从“double”到“float”截断
+F:\Games101\作业\作业1\代码框架\rasterizer.cpp(164,33): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\Games101\作业\作业1\代码框架\rasterizer.cpp(165,34): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\Games101\作业\作业1\代码框架\rasterizer.cpp(235,15): warning C4244: “参数”: 从“float”转换到“const unsigned int”，可能丢失数据
+  Triangle.cpp
+F:\Games101\作业\作业1\代码框架\Triangle.cpp(36,70): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+F:\Games101\作业\作业1\代码框架\Triangle.cpp(36,53): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+F:\Games101\作业\作业1\代码框架\Triangle.cpp(36,36): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+  正在生成代码...
+main.obj : error LNK2019: 无法解析的外部符号 "public: __thiscall cv::Mat::Mat(int,int,int,void *,unsigned int)" (??0Mat@cv@@QAE@HHHPAXI@Z)，函数 _main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 "public: __thiscall cv::Mat::~Mat(void)" (??1Mat@cv@@QAE@XZ)，函数 _main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 "public: void __thiscall cv::Mat::convertTo(class cv::debug_build_guard::_OutputArray const &,int,double,double)const " (?convertTo@Mat@cv@@QBEXABV_OutputArray@debug_build_guard@2@HNN@Z)，函数 _main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 "bool __cdecl cv::imwrite(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class cv::debug_build_guard::_InputArray const &,class std::vector<int,class std::allocator<int> > const &)" (?imwrite@cv@@YA_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@ABV_InputArray@debug_build_guard@1@ABV?$vector@HV?$allocator@H@std@@@3@@Z)，函数 _main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 "int __cdecl cv::waitKey(int)" (?waitKey@cv@@YAHH@Z)，函数 _main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 "void __cdecl cv::imshow(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class cv::debug_build_guard::_InputArray const &)" (?imshow@cv@@YAXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@ABV_InputArray@debug_build_guard@1@@Z)，函数 _main 中引用了该符号
+F:\Graphic\opencv\build\x64\vc15\lib\opencv_world453.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+F:\Graphic\opencv\build\x64\vc15\lib\opencv_world453d.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+F:\Graphic\games101作业\Debug\1.旋转矩阵与透视投影矩阵.exe : fatal error LNK1120: 6 个无法解析的外部命令
